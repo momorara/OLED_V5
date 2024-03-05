@@ -8,8 +8,8 @@
 　最低限のＵＩを備えたこの基板があれば、作るべき物だけに集中できるので、作業がはかどります。<br>
 
  ・サンプルプログラム一覧
-   test_LED.py　(Lチカを行います)<br>
-   test_sw.py　(SWの押下を確認します)<br>
+     test_LED.py　(Lチカを行います)<br>
+     test_sw.py　(SWの押下を確認します)<br>
    test_Servo.py　(サーボを動作させます)<br>
    breathing_LEDx.py　(LEDを蛍のようにゆっくり点滅させます)<br>
    AHTx0_demo.py　(温度・湿度センサーのデータをOLEDに表示します)<br>
