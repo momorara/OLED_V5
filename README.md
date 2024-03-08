@@ -30,7 +30,8 @@ git clone https://github.com/momorara/OLED_V5<br>
 インストールについては、インストール文書に従いインストールを行ってください。<br>
 
 <h4><<動作環境>></h4>
-2024/3/5 対応OS：Buster版、Bullseye版、BookWorm版での動作を確認しています。<br>
+2024/3/5 対応OS：Bullseye版11.9、BookWorm版12.5での動作を確認しています。<br>
+2024/3/7 対応OS：Buster版10.13での動作を確認しています。<br>
    
 <h4><<使用説明資料>></h4>
 説明書類の中の資料を確認ください。
