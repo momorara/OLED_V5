@@ -25,6 +25,7 @@
 ・サーボモーターは付属しません。<br>
 
 <h4><<OLED_V5の位置付け>></h4>
+<h4><<使用方法>></h4>
 ラズパイ4までは、
 git clone https://github.com/momorara/OLED<br>
 にてNode-REDで動作しますが、
