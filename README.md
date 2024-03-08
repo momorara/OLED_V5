@@ -27,8 +27,9 @@
 *OLED_V5の位置付け<br>
 ラズパイ4までは、
 git clone https://github.com/momorara/OLED<br>
-にてNode-REDで動作しますが、
-ラズパイ5(Bookworm)完全対応のNode-REDがまだリリースしてい無いと思いますので、python3ベースのプログラムでラズパイ5対応としています。<br>
+にてNode-REDで動作しますが、<br>
+ラズパイ5(Bookworm)完全対応のNode-REDがまだリリースしてい無いと思いますので、<br>
+python3ベースのプログラムでラズパイ5対応としています。<br>
 ただし、Bullseye、Busterでも動作します。<br>
 
 <h4><<使用方法>></h4>
