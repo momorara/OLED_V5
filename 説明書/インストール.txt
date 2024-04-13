@@ -12,7 +12,7 @@ sudo raspi-config
 i2cdetect -y 1
 とすると、
 OLED 3c
-AHT  38
+AHT  38　　 (pi5ではAHT30を装着しないでください。)
 と表示されます。
 
 ライブラリをインストール
@@ -25,7 +25,7 @@ pip3 install adafruit-circuitpython-ahtx0
 BookWormの場合
 pip install --break-system-packages luma.core
 pip install --break-system-packages luma.oled
-pip install --break-system-packages adafruit-circuitpython-ahtx0
+pip install --break-system-packages adafruit-circuitpython-ahtx0  (pi5ではインストールしないでください。)
 
 外部フォント関係のインストール
 sudo apt install python3-pil # 標準でインストール済みかも
