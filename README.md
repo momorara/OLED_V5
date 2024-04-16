@@ -40,7 +40,7 @@ git clone https://github.com/momorara/OLED_V5<br>
 <h4><<動作環境>></h4>
 2024/3/5 対応OS：Bullseye版11.9<br>
 2024/3/7 対応OS：Buster版10.13での動作を確認しています。<br>
-2024/4/16　対応OS:BookWorm版12.5での動作確認<br>
+2024/4/16 対応OS:BookWorm版12.5での動作確認<br>
    
 <h4><<使用説明資料>></h4>
 説明書類の中の資料を確認ください。
