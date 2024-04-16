@@ -1,7 +1,6 @@
 2024/03/05　インストール手順
 
-2024/03/07　Bullseye 10.13で確認
-2024/03/05　BookWorm 12.5で確認
+2024/03/07　Buster 10.13で確認
 2024/03/05　Bullseye 11.9で確認
 
 I2cを有効化
@@ -9,10 +8,10 @@ sudo raspi-config
 にてi2cを有効にしてください。
 
 基板を装着した状態で
-i2cdetect -y 1
+
 とすると、
 OLED 3c
-AHT  38　　 (pi5ではAHT30を装着しないでください。)
+AHT  38
 と表示されます。
 
 ライブラリをインストール
@@ -22,10 +21,6 @@ pip3 install luma.core
 pip3 install luma.oled
 pip3 install adafruit-circuitpython-ahtx0
 
-BookWormの場合
-pip install --break-system-packages luma.core
-pip install --break-system-packages luma.oled
-pip install --break-system-packages adafruit-circuitpython-ahtx0  (pi5ではインストールしないでください。)
 
 外部フォント関係のインストール
 sudo apt install python3-pil # 標準でインストール済みかも
