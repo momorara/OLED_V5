@@ -25,7 +25,7 @@
 ・サーボモーターは付属しません。<br>
 <br>
 *OLED_V5の位置付け<br>
-ラズパイ4までは、
+Bullseye版までは、
 git clone https://github.com/momorara/OLED<br>
 にてNode-REDで動作しますが、<br>
 ラズパイ5(Bookworm)完全対応のNode-REDがまだリリースしてい無いと思いますので、<br>
