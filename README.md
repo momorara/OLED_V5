@@ -23,14 +23,6 @@
 ・基板のバージョンが変わる場合がありますが、機能等に違いはありません。<br>
 ・ラズパイは付属しません。<br>
 ・サーボモーターは付属しません。<br>
-<br>
-*OLED_V5の位置付け<br>
-Bullseye版までは、
-git clone https://github.com/momorara/OLED<br>
-にてNode-REDで動作しますが、<br>
-ラズパイ5(Bookworm)完全対応のNode-REDがまだリリースしてい無いと思いますので、<br>
-python3ベースのプログラムでラズパイ5対応としています。<br>
-Bookworm対応プログラムは、Bullseye、Busterでも動作します。<br>
 
 <h4><<使用方法>></h4>
 git clone https://github.com/momorara/OLED_V5<br>
